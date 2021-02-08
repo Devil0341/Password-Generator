@@ -65,7 +65,7 @@ function generatePassword (){
             console.log(passwordString);
             //need to make a string of result
             }//end of loop
-           //return(passwordString); 
+           return(passwordString); 
         //}//end of last else statement
       }//end of nested else if statement
  } //end of generate password function block
