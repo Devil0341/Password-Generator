@@ -30,7 +30,7 @@ The Password Generator application displays a red button to "Generate Password"
 ![before fucntionality](Assets/images/03-javascript-demo.png)
 
 ## After Image
-A <span style="color:yellow">**functional**</span> Password Generator application displays a red button to "Generate Password" and an actual passwsord in the text field that meets the criteria.
+A <span style=color:yellow;>**functional**</span> Password Generator application displays a red button to "Generate Password" and an actual passwsord in the text field that meets the criteria.
 ![After functionality deployed](Assets/images/after-image.png)
 
 
@@ -44,4 +44,4 @@ Screencastify here
 ![](./Assets/images/password-gen-demo.gif)
 
 
-[Deployed Link](http://github.com)
+[Deployed Link](https://devil0341.github.io/Password-Generator/)
