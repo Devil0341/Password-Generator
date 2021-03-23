@@ -44,4 +44,4 @@ Screencastify here
 ![](./Assets/images/password-gen-demo.gif)
 
 
-[Deployed Link](https://devil0341.github.io/Password-Generator/)
+[Deployed Link](https://gregpetropoulos.github.io/Password-Generator/)
